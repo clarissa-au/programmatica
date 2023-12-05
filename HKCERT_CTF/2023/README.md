@@ -1,7 +1,11 @@
-# HKCERT CTFs
+# HKCERT 2023 CTF
 
-> Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) and the Hong Kong Productivity Council (HKPC) will jointly organise the “Hong Kong Cyber Security New Generation Capture the Flag (CTF) Challenge”...
+> `hkcert23{he110_aga1n_4nd_we1c0m3_t0_hkc3r7_c7f}`
 
-Here is Clarissa's participation in the years:
+Not really much code! Clarissa is a newcomer to CTF (but got some writeup prepared...)
 
-[2023](/HKCERT_CTF/2023/README.md)
+- [HKCERT CTF 2023 Writeups - ReZero](https://www.chiiika.com/ctf/hkcert23ctf/2023/11/10/hkcert-ctf-2023-rezero.html)
+- [HKCERT CTF 2023 Writeups - Psychic AI](https://www.chiiika.com/ctf/hkcert23ctf/2023/11/10/hkcert-ctf-2023-psychic_ai.html)
+- [HKCERT CTF 2023 Writeups - Another babyXSS](https://www.chiiika.com/ctf/hkcert23ctf/2023/11/12/hkcert-ctf-2023-another_babyxss.html)
+- [HKCERT CTF 2023 Writeups - Undones](https://www.chiiika.com/ctf/hkcert23ctf/2023/11/10/hkcert-ctf-2023-undone.html)
+
