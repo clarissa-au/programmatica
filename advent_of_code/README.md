@@ -5,3 +5,4 @@
 Here is Clarissa's Participation thru the years:
 
 [2023](/advent_of_code/2023/README.md)
+[2024](/advent_of_code/2024/README.md)
