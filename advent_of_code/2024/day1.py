@@ -1,3 +1,5 @@
+data = """HIDDEN"""
+
 cleanedData = data.split("\n")
 lsA = []
 lsB = []

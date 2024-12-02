@@ -1,3 +1,5 @@
+data = """HIDDEN"""
+
 def identificator(toTry):
     flagIncr = "undecided"
     flagSafe = True
