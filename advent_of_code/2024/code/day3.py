@@ -1,3 +1,5 @@
+data = """HIDDEN"""
+
 import re
 
 # part 1
