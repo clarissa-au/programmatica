@@ -2,7 +2,8 @@
 
 (This writeup will be posted to my blog later on when I have time, after I transition my blog's structure.)
 
-![Oh, frick me.](/blob/adventOfCode/2024/day4_iamfucked.jpg)
+<img src="/blob/adventOfCode/2024/day4_iamfucked.jpg" width="200"/>
+
 > Oh, frick me. I haven't coded in Kotlin before. I definitely haven't played Russian Roulette with language choice with some of my friends also playing Advent Of Code 2024.
 
 ## Problem Statement
