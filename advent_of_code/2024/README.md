@@ -16,4 +16,4 @@ Back into it on another year! Will try to finish 2023 that I've put down in the 
 - Day 1 [Python Code](/advent_of_code/2024/code/day1.py), ~~Writeup~~
 - Day 2 [Python Code](/advent_of_code/2024/code/day2.py), ~~Writeup~~
 - Day 3 [Python Code](/advent_of_code/2024/code/day3.py), ~~Writeup~~
-- Day 4 [Kotlin Code](/advent_of_code/2024/code/day4.kt), Writeup
+- Day 4 [Kotlin Code](/advent_of_code/2024/code/day4.kt), [Writeup](/advent_of_code/2024/writeup/day4_writeup.md)
