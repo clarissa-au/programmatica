@@ -13,8 +13,13 @@ Back into it on another year! Will try to finish 2023 that I've put down in the 
 
 ## List of Solutions
 
-- Day 1 [Python Code](/advent_of_code/2024/code/day1.py), ~~Writeup~~
-- Day 2 [Python Code](/advent_of_code/2024/code/day2.py), ~~Writeup~~
-- Day 3 [Python Code](/advent_of_code/2024/code/day3.py), ~~Writeup~~
+- Day 1 [Python Code](/advent_of_code/2024/code/day1.py)
+- Day 2 [Python Code](/advent_of_code/2024/code/day2.py)
+- Day 3 [Python Code](/advent_of_code/2024/code/day3.py)
 - Day 4 [Kotlin Code](/advent_of_code/2024/code/day4.kt), [Writeup](/advent_of_code/2024/writeup/day4_writeup.md)
 - Day 5 [Python Code](/advent_of_code/2024/code/day5.py), [Writeup](/advent_of_code/2024/writeup/day5_writeup.md)
+- Day 6 [Python Code](/advent_of_code/2024/code/day6.py)
+
+## List of Topic writeups
+
+- How a Girl Struggled with Multiprocessing
