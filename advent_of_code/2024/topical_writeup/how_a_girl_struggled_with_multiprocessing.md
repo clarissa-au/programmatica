@@ -10,7 +10,7 @@
 
 When I was working for a solution to Day 6 of Advent of Code, my code took 8 minutes to run, and returns a wrong answer. Thinking that making the solution faster would make it easier to debug, I tried to use multiprocessing and in the process of trying to use multiprocessing to speed up my code I found out that using nonoptimized code for multiprocessing itself won't make anything better, only giving a marginal improvement on runtime despite on a med-high end computer. At the end, I copied a solution from the Solutions Megathread and used it to compare stepwise to what I have done, and after 20 minutes of computation (due to being on battery probably) I computed the answer for my solution.
 
-## Visualization 
+## Visualization
 
 ![map](/advent_of_code/2024/visualization/day_6.png)
 
@@ -18,9 +18,9 @@ When I was working for a solution to Day 6 of Advent of Code, my code took 8 min
 
 > pikachu_shocked_face.png
 
-> X represents the path taken
-> M represents misidentified loop locations
-> U represents unidentified loop locations
+> X represents the path taken,
+> M represents misidentified loop locations,
+> U represents unidentified loop locations.
 
 ## 9th December
 
