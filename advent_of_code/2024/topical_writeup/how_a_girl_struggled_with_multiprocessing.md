@@ -25,7 +25,9 @@ When I was working for a solution to Day 6 of Advent of Code, my code took 8 min
 ## 9th December
 
 0100 Local: I have just solved and did the writeup for Day 5, and after a night of sleep I am intending to get the solutions for Day 6 - 8.
+
 0300 Local: I have solved Day 6a, but I am having troublem with 6b - whatever I do, I cannot get 6b to work! I asked on reddit how to solve 6b, and got back some testcases to work with.
+
 0500 Local: While waiting for replies to my question, I solved D7 and D8 - and tried to use multiprocessing on Day 7. As I found out that my multiprocessing solution does not actually run faster than my nonmultiprocessing solution, I again turned to reddit for help - to identify where is the pain points of multiprocessing in a futile attempt to try quicken my Day 6 solution. Being absurdly tired does not help with my quest to solve D6b, and I set a alarm for 0845 for work.
 
 Here is a few assumptions I used for day 6b:
@@ -36,10 +38,14 @@ Here is a few assumptions I used for day 6b:
 ## 9th December, post shift
 
 1400 Local: I was extremely tired, and with a nearly stopped brain I decided that I could only debug it by comparing to a solved solution and using it to see where I did wrong. I'm not sure if it is cheating, but hey, even if I cheated I would learn what I did wrong? 
+
 1410 Local while on shift: Color me pikachu shocked when I see unidentified loop locations on positions that isn't even on the path, as shown in the visualization grid.
+
 1430 Local while on shift: Color me double pikachu shocked when I correct for the grid positioning by using `mapping[(j, i)] = data[i][j]` instead of `mapping[(i, j)] = data[i][j]` and saw this when comparing my grid to a correct solution. Using this, I resolved the unidentified loop positions, but there is still a lot of missing loop positions with no apparant cause.
+
 ![why](/blob/adventOfCode/2024/day6_whyistheretwofootstops.jpg)
 > There are two fricking footstops? Why does Python think the left footstop isn't the right footstop?
+
 1730 Local: After throwing out using a dict to represent the mapping and only using a list that stores the wall location and the simulation position and direction I cut the runtime from 8mn to 2mn - my earlier multiprocessing attempt is not even a correct solution to make my attempt go quicker!
 
 ## 11th December
