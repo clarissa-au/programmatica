@@ -3,7 +3,7 @@
 > aka A Confessional of a Girl who cheated in AoC
 > or How I inadvertently fell into a X/Y problem
 
-> def("XY Problem")
+> def("XY Problem") -> 
 > the act of asking a question with a solution in mind, not presupposing that the solution may itself be wrong. ([source](http://www.catb.org/~esr/faqs/smart-questions.html#goal))
 
 ## TLDR
