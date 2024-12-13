@@ -19,6 +19,7 @@ Back into it on another year! Will try to finish 2023 that I've put down in the 
 - Day 4 [Kotlin Code](/advent_of_code/2024/code/day4.kt), [Writeup](/advent_of_code/2024/writeup/day4_writeup.md)
 - Day 5 [Python Code](/advent_of_code/2024/code/day5.py), [Writeup](/advent_of_code/2024/writeup/day5_writeup.md)
 - Day 6 [Attempt 1 Python Code](/advent_of_code/2024/code/day6_attempt1.py), [Attempt 2 Python Code](/advent_of_code/2024/code/day6_attempt2.py), [Attempt 3 Python Code](/advent_of_code/2024/code/day6_attempt3.py)
+- Day 7 [Python Code](/advent_of_code/2024/code/day7.py)
 
 ## List of Topic writeups
 
