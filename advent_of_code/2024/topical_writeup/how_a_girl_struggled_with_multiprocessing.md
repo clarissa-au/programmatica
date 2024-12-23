@@ -56,6 +56,8 @@ After taking a day of rest due to examination, I essentially followed the steps 
 
 1) How can multiprocessing be used in AoC effectively? While researching on multiprocessing, they have big performance overheads that limits their own usefulness. I would like to investigate further on how multiprocessing can be employed effectively.
 2) In the correct solution, they scans for every point in the grid space compared to only on the path. Logically, searching more points would not decrease the amount of points determined for a set. However, a interesting finding I saw later on is that misidentified points are all points that are crossed in both directions. There might be a off-by-one error somewhere in the original solution that looping for all points would fix somehow.
+
     a) Post-Edit: Consider this - if placing the block there on the second time you arrive here could result in a loop; but placing the block has to happen first and if you place a block waiting for the second time it come across the intersection, it would deflect the guard on their first time arriving at the junction and as it didn't get included on the first pass there, the guard wouldn't come back to get deflected again!
+
 3) Does being exhausted actually affect how a person codes? If I wasn't coding at 3 am for the solution and in a better headspace, would the underlying bug not be coded in at the first place?
 4) How does the solution gets part A right but not part B? I didn't encounter such a heavy resistance on D6a, only on D6b.
